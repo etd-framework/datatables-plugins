@@ -1,0 +1,12 @@
+{
+  "name": "etdsolutions/datatables-plugins",
+  "description": "Shim repository for DataTables Plugins",
+  "homepage": "https://datatables.net",
+  "license": "MIT",
+  "require": {
+	  "etdsolutions/datatables": ">=1.10"
+  },
+  "suggest": {
+    "etdsolutions/moment": "Pour utiliser le plugin datetime-moment"
+  }
+}
